@@ -71,4 +71,4 @@ Berikut merupakan perbandingan hasil evaluasi model Linear Regression:
 Proyek ini menunjukkan penerapan algoritma Linear Regression untuk memprediksi harga rumah berdasarkan sejumlah fitur numerik. Berdasarkan hasil eksperimen, penambahan fitur State melalui One-Hot Encoding belum memberikan peningkatan performa model dibandingkan penggunaan fitur numerik awal.
 
 ## Author
-**Nama Kamu**
+Rayndita.
