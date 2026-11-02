@@ -52,7 +52,7 @@ Berikut merupakan perbandingan hasil evaluasi model Linear Regression:
 ├── USA_Housing.csv
 ├── Prediksi_Harga_Rumah_Regresi_Linear.ipynb
 ├── Prediksi_Harga_Rumah_Regresi_Linear_State.ipynb
-└── README.md
+
 ```
 
 ## Cara Menjalankan Proyek
